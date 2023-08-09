@@ -1,1 +1,6 @@
-# Test_Repo
+# Test_Rep 
+
+## Stuff to WUBZ:
+
+- Looper 
+- Chuy's
