@@ -4,3 +4,5 @@
 
 - Looper 
 - Chuy's
+- Poki
+- Smoko
